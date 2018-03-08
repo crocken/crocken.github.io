@@ -1,8 +1,21 @@
-- menu_name: "Support"
+- menu_name: "Dankeschön"
 
-- name: "This project was made possible in part by the Institute of Museum and Library Services."
+- name: "Icons by Daniel Bruce"
+-  url: "http://entypo.com/"
+-  class: "network-entypo"
+-  title: "Icons by Daniel Bruce"
 
-- name: "LG-70-17-0217-17"
-  url: "https://www.imls.gov/grants/awarded/lg-70-17-0217-17"
-  class: "grant-link"
-  title: "LG-70-17-0217-17"
+- name: "Built on Foundation"
+-  url: "http://foundation.zurb.com/"
+-  class: "services-newsletter"
+-  title: "Built on Foundation"
+
+- name: "Images by Unsplash"
+-  url: "http://unsplash.com/"
+-  class: "rss-link"
+-  title: "Images by Unsplash"
+
+- name: "Using Backstretch by Scott Robbin"
+-  url: "http://srobbin.com/jquery-plugins/backstretch/"
+-  class: "sitemap-link"
+-  title: "Using Backstretch by Scott Robbin"
