@@ -14,7 +14,7 @@ title: 'Crocken Test'
 slogan: 'A Bridge to a bridge'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'We're a community resourece for migrating to Hyku'
+description: 'We're a community resource for migrating to Hyku'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Made with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
