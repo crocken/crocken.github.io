@@ -1,10 +1,8 @@
 - menu_name: "Support"
 
 - name: "This project was made possible in part by the Institute of Museum and Library Services."
-  class: "grant-acknowledgement"
-  title: "This project was made possible in part by the Institute of Museum and Library Services."
 
 - name: "LG-70-17-0217-17"
   url: "https://www.imls.gov/grants/awarded/lg-70-17-0217-17"
   class: "grant-link"
-  title: "(LG-70-17-0217-17)"
+  title: "LG-70-17-0217-17"
