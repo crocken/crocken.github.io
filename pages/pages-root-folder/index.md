@@ -8,10 +8,10 @@ layout: frontpage
 header:
   image_fullwidth: header_roadmap_2.jpg
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  title: "Why Hyku?"
+  url: '/why-hyku'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Are you looking for an open-source platform for your digital library or institutional repository? <em>Hyku</em> offers a hyrax-in-a-box system to let you hit the ground running.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
