@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Crocken Testing'
+title: 'Crocken Test'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'A Bridge to a bridge'
@@ -21,7 +21,7 @@ credits: '<p>Made with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
 
 # Main author of the website
 # See > authors.yml
-author: Todd Crocken
+author: Crocken
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
