@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Why Hyku?"
 subheadline: "the best digital repository for you"
 teaser: "We're here to help you decide the right place for your situation"
@@ -8,16 +8,18 @@ header:
     image_fullwidth: "header_unsplash_8.jpg"
 permalink: "/why-hyku/"
 ---
-
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
+    **Table of Contents**
 {: #toc }
 *  TOC
 {:toc}
 </div>
 </div>
 
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+{% include _improve_content.html %}
 
 ## Your Options {#your-options}
 
@@ -30,3 +32,9 @@ To come...
 ## Hyku vs Hyrax {#hyku-hyrax}
 
 To come...
+
+</div><!-- /.medium-8.columns -->
+</div><!-- /.row -->
+
+
+
