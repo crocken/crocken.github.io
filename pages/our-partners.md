@@ -3,6 +3,7 @@ layout: page-fullwidth
 subheadline:  "Join our community"
 title:  "Our Partners"
 permalink: "/our-partners/"
+header: no
 ---
 
 test
