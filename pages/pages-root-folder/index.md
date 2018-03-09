@@ -21,7 +21,7 @@ widget3:
   title: "Toolkit"
   url: 'https://github.com/Bridge2Hyku'
   image: widget-github-303x182.jpg
-  text: 'Bridge2Hykus toolkit will be open-source and available on github. We hope to have tools ready for the communities use by late 2018'
+  text: 'Our toolkit will be open-source and available on github. We hope to have tools ready for community use by late 2018'
 #
 # Use the call for action to show a button on the frontpage
 #
