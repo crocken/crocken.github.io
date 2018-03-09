@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline:  "We're in this together"
+subheadline:  "Join our community"
 title:  "Our Partners"
 permalink: "/our-partners/"
 ---
