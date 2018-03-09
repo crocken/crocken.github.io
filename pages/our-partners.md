@@ -5,7 +5,7 @@ title:  "Our Partners"
 permalink: "/our-partners/"
 ---
 
-
+test
 
 <div class="row">
     <div class="small-12 columns">
