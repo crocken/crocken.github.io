@@ -13,10 +13,8 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'Are you looking for an open-source platform for your digital library or institutional repository? <em>Hyku</em> offers a hyrax-in-a-box system to let you hit the ground running.'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Our Parnters"
+  text: 'Bridge2Hyku is a project by The University of Houston (UH) Libraries, in partnership and consultation with Indiana University at Bloomington (IUB) and Indiana University-Purdue University Indianapolis (IUPUI), The University of Victoria (UVic), and the University of Miami (UM).'
 widget3:
   title: "Download Theme"
   url: 'https://github.com/Phlow/feeling-responsive'
@@ -43,10 +41,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
