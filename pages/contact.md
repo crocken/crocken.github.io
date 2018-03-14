@@ -1,12 +1,10 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: Contact and Survey"
+teaser: "Like to get in touch with us? here's how!"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
-
-
- [1]: http://www.wufoo.com/
+Hello! Currently we are looking for responses to <a href="https://t.co/NoPMvtxtWX">our migration survey</a>.  Please consider taking the time to fill it out as best you can, as the findings from it will help us create a roadmap for how to best serve the community. 
+ 
+Otherwise, feel free to <a href=mailto:"crocken@uh.edu">e-mail us</a>, and we'll get in touch as best we can. 
