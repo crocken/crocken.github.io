@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-meta_title: Contact and Survey"
+meta_title: "Contact and Survey"
 teaser: "Like to get in touch with us? here's how!"
 permalink: "/contact/"
 ---
