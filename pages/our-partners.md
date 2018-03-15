@@ -26,13 +26,7 @@ Under Construction!
   </div>
     <div class="row">
   <div class="large-4 columns">
-      <img src="/images/logos/logo-hide.png">
-  </div>
-  <div class="large-4 columns">
-      <img src="/images/logos/logo-iuipui.png">
-  </div>
-  <div class="large-4 columns">
-      <img src="/images/logos/logo-hide.png">
+      <img src="/images/logos/logo-iupui.png">
   </div>
     
   
