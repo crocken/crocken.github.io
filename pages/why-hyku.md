@@ -23,6 +23,11 @@ permalink: "/why-hyku/"
 
 ContentDM, Rosetta, Islandora, Invenio, Roda, Hyrax, Hyku... there's a lot of choices when it comes to the platform for your digital library. Are you looking for an institutional repository? Are you looking for a way to share your special collections? How many developers do you have at your disposal?  Answering these questions and more will help you decide if Hyku is right for your needs.
 
+## Hyku as a Digital National Platform {#hyku-platform}
+
+Hyku, AKA Hydra-In-a-Box, was built as a part of the Institute for Museum and Library Services' <a href="https://www.imls.gov/issues/national-issues/national-digital-platform">National Digital Platform</a> initiatve. It strives to be <a href="http://hydrainabox.samvera.org/">a feature-rich, robust, flexible digital repository that is easy to install, configure, and maintain."</a>
+
+
 ## Omeka vs Hyku {#omeka-hyku}
 
 If you're looking to build an online exhibition or digital humanities project, <a href="https://omeka.org/news/2010/09/21/omeka-and-peers/">Omeka is a wonderful tool</a>. If you're looking to build an institutional repository or digital collections system, you might be better served by the Fedora/Solr/Blacklight-backed Hyku.  
