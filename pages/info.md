@@ -11,7 +11,7 @@ We will be adding to this page regularly in 2018 and 2019; so check back or cont
 
 ## Features of Hyku
 
-These are just some of the features listed in Hyku's<a href="https://wiki.duraspace.org/display/hyku/Hyku+Features">current documentation</a>.
+These are just some of the features listed in Hyku's <a href="https://wiki.duraspace.org/display/hyku/Hyku+Features">current documentation</a>.
 
 * <strong>Responsive interface</strong> – Displays clearly and is usable on the range of screen sizes and mobile devices.
 * <strong>Redesigned, consolidated dashboard</strong> – A single interface with advanced tooling to access all administrative and management tasks and reporting.
