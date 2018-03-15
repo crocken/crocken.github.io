@@ -25,11 +25,11 @@ ContentDM, Rosetta, Islandora, Invenio, Roda, Hyrax, Hyku... there's a lot of ch
 
 ## Omeka vs Hyku {#omeka-hyku}
 
-To come...
+If you're looking to build an online exhibition or digital humanities project, <a href="https://omeka.org/news/2010/09/21/omeka-and-peers/">Omeka is a wonderful tool</a>. If you're looking to build an institutional repository or digital collections system, you are better served by the Fedora-backed Hyku.  
 
 ## Hyku vs Hyrax {#hyku-hyrax}
 
-While we get this set-up, check out <a href="https://wiki.duraspace.org/pages/viewpage.action?pageId=85530575">this article</a> on Hyku's wiki. 
+Hyku is an "out of the box" version of Hyrax, if you do not have any web developers on staff or already plan to use a consortium to help offload technical issues, Hyku is the right fit for you, check out <a href="https://wiki.duraspace.org/pages/viewpage.action?pageId=85530575">this article</a> on Hyku's wiki. If you have developers on staff and are looking to have customized workflows and tech specs, consider using <a href="http://hyr.ax/">Hyrax</a> and joining the <a href="http://samvera.org/">Samvera community</a>. 
 
 {% include _improve_content.html %}
 </div><!-- /.medium-8.columns -->
