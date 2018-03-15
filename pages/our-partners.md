@@ -14,17 +14,17 @@ header: no
 
 <div class="row">
   <div class="large-4 columns">
-      <img src="/images/logos/logo-uh.png">
+      <img src="/images/logo-uh.png">
   </div>
   <div class="large-4 columns">
-      <img src="/images/logos/logo-uvic.png">
+      <img src="/images/logo-uvic.png">
   </div>
   <div class="large-4 columns">
-      <img src="/images/logos/logo-um.png">
+      <img src="/images/logo-um.png">
   </div>
     <div class="row">
   <div class="large-4 columns">
-      <img src="/images/logos/logo-iupui.png">
+      <img src="/images/logo-iupui.png">
   </div>
     
   
