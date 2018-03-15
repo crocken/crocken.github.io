@@ -21,3 +21,4 @@ These are just some of the features listed in Hyku's <a href="https://wiki.duras
 * <strong>Faceted search and browse</strong> – Powered by Blacklight, an intuitive interface makes it easy to search and find content quickly.
 
 
+{% include _improve_content.html %}
