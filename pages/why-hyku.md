@@ -29,7 +29,7 @@ To come...
 
 ## Hyku vs Hyrax {#hyku-hyrax}
 
-To come...
+While we get this set-up, check out <a href="https://wiki.duraspace.org/pages/viewpage.action?pageId=85530575">this article</a> on Hyku's wiki. 
 
 {% include _improve_content.html %}
 </div><!-- /.medium-8.columns -->
